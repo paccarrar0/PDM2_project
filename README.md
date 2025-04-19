@@ -35,6 +35,12 @@
 
 ---
 
+## Screens Prototype
+
+https://www.figma.com/design/sEZj4z5XjrzIQk7kdHTNVr/MelodyMemo?m=auto&t=UI9vb4FP2ZMRgNEG-6
+
+---
+
 ## Database Modeling
 
 ![image](https://github.com/user-attachments/assets/0db3027e-f3c3-40ad-b8e1-089d6966a320)
